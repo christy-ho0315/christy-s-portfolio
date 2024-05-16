@@ -20,3 +20,7 @@ Here are some of the skills I possess:
 Feel free to reach out to me via email at szuhua.christyho@gmail.com. I'm open to collaborations, job opportunities, or just a friendly chat!
 
 Thank you for visiting my portfolio!
+
+## Credit
+
+This portfolio was created by Christy Ho and reference by "How to Become a Developer"'s Channel from YouTube.
