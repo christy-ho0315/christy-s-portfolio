@@ -13,7 +13,7 @@ Here are some of the skills I possess:
 - **Front-End Development**: I create visually appealing and user-friendly websites using HTML, CSS, and JavaScript.
 - **Back-End Development**: I am proficient in server-side programming and database management.
 - **UI/UX Design**: I have experience in creating intuitive user interfaces and enhancing user experience.
-- **[Additional Skills]**: [Brief Description]
+- **Website Development**: I also develop the websites. I create high performance website with blazing fast speed.
 
 ## Portfolio
 
@@ -55,6 +55,6 @@ Here are some of the skills I possess:
 
 ## Contact Me
 
-Feel free to reach out to me via email at [Your Email Address] or connect with me on [Social Media Platform] ([Social Media Handle]). I'm open to collaborations, job opportunities, or just a friendly chat!
+Feel free to reach out to me via email at szuhua.christyho@gmail.com. I'm open to collaborations, job opportunities, or just a friendly chat!
 
 Thank you for visiting my portfolio!
