@@ -17,7 +17,8 @@ Here are some of the skills I possess:
 
 ## Contact Me
 
-Feel free to reach out to me via email at szuhua.christyho@gmail.com. I'm open to collaborations, job opportunities, or just a friendly chat!
+Feel free to reach out to me via email at szuhua.christyho@gmail.com 
+I'm open to collaborations, job opportunities, or just a friendly chat!
 
 Thank you for visiting my portfolio!
 
