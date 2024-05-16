@@ -1,0 +1,49 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "I create website that people see in their web browsers, using HTML, CSS, and JavaScript."
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "I create the server-side logic of a website or web application, like managing databases."
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "UI & UX Design",
+        "description": "I do UI/UX design for the website that helps website to get a unique look."
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Website Development",
+        "description": "I also develop the websites. I create high performance website with blazing fast speed."
+      }
+    ],
+    
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/cat.jpg",
+        "title": "Digital Art",
+        "description": "Create art using digital technology, like computers and software. Use tools such as Photoshop and Illustrator to design digitally."
+      },
+      {
+        "id": "2",
+        "src": "./img/art.jpg",
+        "title": "Drawing",
+        "description": "Create art with physical tools like pencils, pens, and paper. It's hands-on, allowing artists to sketch, shade, and add detail manually."
+      },
+      {
+        "id": "3",
+        "src": "./img/photo.jpg",
+        "title": "Senior Photos",
+        "description": "Senior photos focuses on capturing images of college seniors to commemorate their last year. These photos displays the senior's personality."
+      }
+    ]
+  }
